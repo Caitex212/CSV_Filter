@@ -48,5 +48,3 @@ phone_filter_exclude = ["04"]  # Exclude numbers beginning with strings specifie
 **Note:** Ensure Python script files (`main.py` and `config.py`) are in the same directory.
 
 ---
-
-Feel free to customize the configuration and adapt the script according to your specific requirements. If you encounter any issues or have suggestions for improvement, please feel free to raise them.
