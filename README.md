@@ -1,4 +1,4 @@
-# CSV Data Filter
+# CSV Filter
 
 This Python script processes CSV files located in the `input` folder based on the configuration provided in `config.py`. It filters rows based on specific criteria and saves the filtered data into the `output` folder.
 
